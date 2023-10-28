@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have 7 years of experience in Front end development. It includes 2 years of experience in React, Javascript and 1 year in Angular 8.
+I have 7 years of experience in Front end development. It includes 3 years of experience in React, Javascript and 1 year in Angular 8.
 <!--
 **nkrpradhan/nkrpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
